@@ -1,2 +1,3 @@
-# Bash-Obf
-Bash Obfuscator
+# Bash-Obfuscator
+
+Usage : ```bash obf.sh script.sh```
