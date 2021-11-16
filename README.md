@@ -1,0 +1,2 @@
+# Bash-Obf
+Bash Obfuscator
